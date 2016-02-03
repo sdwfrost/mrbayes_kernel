@@ -31,7 +31,7 @@ class MrBayesKernel(ProcessMetaKernel):
     implementation_version = __version__,
     language = 'mrbayes'
     language_version = '0.1',
-    banner = "Octave Kernel"
+    banner = "MrBayes Kernel"
     language_info = {
         'mimetype': 'text/x-shell',
         'name': 'mrbayes_kernel',
